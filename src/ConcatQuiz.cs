@@ -4,7 +4,7 @@ using NUnit.Framework;
 /* NOTE:  My main objective was to write new tests QUICKLY.
  * Code readability was compromised a bit (short variable names) in order keep everything short and sweet!
  *
- * By the way, .NET Fiddle's "Script" Project Type can be useful when checking out and composing Test Cases.
+ * By the way, I found .NET Fiddle's "Script" Project Type to be useful when checking out and composing Test Cases.
 */
 
 public class ConcatQuiz
